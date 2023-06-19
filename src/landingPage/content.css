@@ -1,0 +1,6 @@
+.cardsSpacing{
+    display: flex;
+    justify-content: center;
+    gap: 27px;
+    margin-top: 15px;
+}
